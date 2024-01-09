@@ -1,1 +1,4 @@
-# Dekhi_Bangladesh_Test_Report
+# Dekhi Bangladesh Test Report
+
+## Overview
+This Repository contains the bug report of "Dekhi Bangladesh" web application. 
